@@ -16,7 +16,7 @@
 * **Junior Highschool**
     * New Era University | 2018 - 2022
 * **Elementary**
-    * New era University | 2011 - 2018
+    * New Era University | 2011 - 2018
 
 ---
 
