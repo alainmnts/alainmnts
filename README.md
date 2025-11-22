@@ -25,7 +25,7 @@
 | :--- | :--- | :--- |
 | **[Introduction to Cybersecurity](https://www.credly.com/badges/160b8bb4-e205-42f5-b231-1df726d49a8c)** | Cisco Net Acad | 2025|
 | **[Introduction to Data Science](https://www.credly.com/badges/0dc18f73-134a-434d-b14b-0bbae65ea8af)** | Cisco Net Acad | 2025|
-| **[SQL Database 101]((https://courses.cognitiveclass.ai/certificates/5d43e32dcc6d406d90c75bbc3133eac8)** | Cognitive Class Ai | 2025 |
+| **[SQL Database 101](https://courses.cognitiveclass.ai/certificates/5d43e32dcc6d406d90c75bbc3133eac8)** | Cognitive Class Ai | 2025 |
 
 ---
 
