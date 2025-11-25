@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Alain! 👋</h1>
----
 
 ### 🎓 Education
 
