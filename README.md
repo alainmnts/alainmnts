@@ -4,13 +4,6 @@
 
 * **Bachelor of Science in Computer Science**
     * New Era University | 2024 – Present
-* **Senior High School (STEM)**
-    * New Era University | 2022 – 2024
-* **Junior Highschool**
-    * New Era University | 2018 - 2022
-* **Elementary**
-    * New Era University | 2011 - 2018
-
 ---
 
 ### 📜 Certifications
