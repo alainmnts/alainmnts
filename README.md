@@ -14,6 +14,7 @@
 | **[Introduction to Data Science](https://www.credly.com/badges/0dc18f73-134a-434d-b14b-0bbae65ea8af)** | Cisco Net Acad | 2025 |
 | **[SQL Database 101](https://courses.cognitiveclass.ai/certificates/5d43e32dcc6d406d90c75bbc3133eac8)** | Cognitive Class Ai | 2025 |
 | **[OCI Foundations Associate 2025](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4E7710E359E18066E800F51B1FB756716377C231DC15B269A67BE3E009748884)** | Oracle University | 2025 |
+| **[Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=650BE15D7E379F4ED82154DC83AF54280F7579F892B8FA47D3BF528E4F490753)** | Oracle University | 2025 |
 
 ---
 
