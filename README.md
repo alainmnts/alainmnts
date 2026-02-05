@@ -35,7 +35,7 @@
 ## 📫 Connect with me!
 <p>
   <a href="mailto:alaindeinielmontes@gmail.com"><img src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png" alt="email"/></a>
-  <a href="www.linkedin.com/in/alain-deiniel-montes-1b352439a"><img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" alt="linkedin"/></a>
+  <a href="https://ph.linkedin.com/in/alain-deiniel-montes"><img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" alt="linkedin"/></a>
   <a href="https://github.com/alainmnts"><img src="https://img.icons8.com/?size=48&id=AZOZNnY73haj&format=png" alt="github"/></a>
 </p>
 
