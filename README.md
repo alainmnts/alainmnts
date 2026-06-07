@@ -23,13 +23,16 @@
 
 **Languages**
 * Java
+* Javascript
 * HTML
 * Python
 * SQL
+* CSS
 
 **Databases and Services**
 * IBM Db2 Cloud
 * Supabase
+* MongoDB
 
 ---
 ## 📫 Connect with me!
